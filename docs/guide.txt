@@ -1,0 +1,5 @@
+https://www.positronx.io/laravel-jwt-authentication-tutorial-user-login-signup-api/
+https://laracasts.com/discuss/channels/general-discussion/connect-econnrefused-1270018181
+https://stackoverflow.com/questions/55254903/laravel-api-not-found
+https://medium.com/hackernoon/automatically-set-csrf-token-in-postman-django-tips-c9ec8eb9eb5b
+https://laracasts.com/discuss/channels/laravel/token-mismatch-when-sending-post-request-on-postman

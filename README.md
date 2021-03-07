@@ -8,7 +8,7 @@
 </p>
 
 ## Build
-* Inspiration *
+** Inspiration **
 https://www.positronx.io/laravel-jwt-authentication-tutorial-user-login-signup-api/
 https://laracasts.com/discuss/channels/general-discussion/connect-econnrefused-1270018181
 https://stackoverflow.com/questions/55254903/laravel-api-not-found
